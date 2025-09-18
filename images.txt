@@ -1,1 +1,1 @@
---platform arm32v7 shiyu1314/embyserver-crack_arm32v7
+--platform linux/arm/v7 shiyu1314/embyserver-crack_arm32v7
