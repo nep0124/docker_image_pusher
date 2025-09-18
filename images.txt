@@ -1,1 +1,1 @@
-emby/embyserver:latest
+emby/embyserver_arm32v7
