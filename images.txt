@@ -1,2 +1,1 @@
-nginx
-docker.io/lovechen/embyserver:latest
+emby/embyserver:latest
