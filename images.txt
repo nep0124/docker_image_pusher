@@ -1,1 +1,1 @@
---platform linux/arm/v7 fogforest/yesplaymusic
+--platform linux/arm/v7 liyong763435720/yesplaymusic-aarch64
