@@ -1,1 +1,1 @@
-linuxserver/qbittorrent
+sulinggg/openwrt:arm_cortex-a7
