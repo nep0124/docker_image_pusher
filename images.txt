@@ -1,2 +1,2 @@
 
-sulinggg/openwrt-mini:armv7 --platform=linux_arm_v7
+sulinggg/openwrt-mini:armv7 --platform=linux/arm/v7
