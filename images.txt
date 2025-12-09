@@ -1,1 +1,2 @@
-sulinggg/openwrt:arm_cortex-a7
+
+sulinggg/openwrt-mini:armv7 --platform=linux_arm_v7
