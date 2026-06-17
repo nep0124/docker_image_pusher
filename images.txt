@@ -1,2 +1,2 @@
-#--platform=linux/arm/v7 sulinggg/openwrt-mini:armv7
-eternalcurse/seeding-checker
+jxxghp/moviepilot-v2
+
