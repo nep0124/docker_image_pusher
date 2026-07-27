@@ -1,1 +1,1 @@
-cloudflare/cloudflared
+/linuxserver/qbittorrent:4.6.7-libtorrentv1
